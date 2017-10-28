@@ -9,3 +9,7 @@ int main(){
 	printf("%d %d\n", abs(x), abs(y));
 	return 0；
 	}
+
+// 2. swap()
+
+	
