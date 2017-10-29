@@ -71,8 +71,6 @@ int main(){
 	return 0;
 }
 // output: 3
-
-
 // -----------------------------------------------------
 // (3) clear()
 //     clear the elements
@@ -90,6 +88,25 @@ int main(){
 	return 0;
 }
 // output: 0
+
+// -----------------------------------------------------
+// (3) find()
+//     find an element
+//     O(N)
+# include <stdio.h>
+# include <set>
+using namespace std;
+int main(){
+	set<int> st;
+	
+
+	for(int i = 1; i <= 3; it++){
+		st.insert(i);
+	}
+	printf("%d", *st.(find(2)));
+	return 0;
+}
+// output: 2
 // -----------------------------------------------------
 // (6) erase()
 //     1. delete one element on the position 'it'
