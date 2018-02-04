@@ -1,40 +1,6 @@
 # [PAT](https://www.patest.cn/) ![](https://img.shields.io/badge/language-C++-purple.svg) ![](https://img.shields.io/badge/license-MIT-brightgreen.svg) 
 
 
-Coding Practice for the Programming Ability Test of ZJU (2018.9.)
-
-# C语言
-## 数据表达与组织
-- 常量，变量，运算与表达式
-- 一维和二维数组，字符数组和字符串
-- 指针与数组，结构与数组
-- 指针与结构，单向链表
-
-## 语句及流程控制
-- 复合语句
-- 分支控制(if、switch)
-- 循环控制(for、while、do—while)
-
-## 程序结构和函数
-- C程序结构
-- 函数的定义、参数传递和调用
-- 函数的递归调用
-- 变量的存储类别、作用域，全局变量和局部变量
-
-## 输入/输出和文件
-- 标准输入和输出
-- 文本文件与二进制文件
-- 文件打开、关闭、读写和定位
-
-## 编译预处理和命令行参数
-- 宏定义和宏函数
-- 命令行参数和使用
-
-## 基本算法设计与程序实现
-- 简单排序算法（插入、选择、冒泡）、二分查找
-- 链表、文件中查找
-- 级数求和、进制转换
-
 
 # 数据结构
 ## 栈、队列和数组
